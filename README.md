@@ -1,6 +1,6 @@
-# About Me
+# Hi, I'm Adam
 
-My name is Adam. I'm currently studying software engineering. You can check out my projects here or learn more about me at my <a href=https://adamajane.com>website</a>.
+I'm currently pursuing a degree in software engineering at the Technical University of Denmark. You can check out my projects here or learn more about me at my <a href=https://adamajane.com>website</a>.
 
 ![adamajane's Stats](https://github-readme-stats.vercel.app/api?username=adamajane&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
